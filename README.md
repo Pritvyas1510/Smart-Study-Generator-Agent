@@ -2,7 +2,6 @@
 
 > **An AI-powered Smart Study Assistant built using LangFlow, IBM watsonx.ai, IBM Granite Models, and Retrieval-Augmented Generation (RAG).**
 
-![Project Banner](assets/banner.png)
 
 ---
 
@@ -185,7 +184,7 @@ screenshots/output.png
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Study-Generator-Agent.git
+git clone https://github.com/Pritvyas1510/Smart-Study-Generator-Agent.git
 ```
 
 Move into the project
